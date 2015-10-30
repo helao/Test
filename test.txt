@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-asdf
-Update?
-=======
-test123
->>>>>>> versionY
